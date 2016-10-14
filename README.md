@@ -11,7 +11,9 @@ dans la console dans le dossier
 Modification des styles en scss dans styles.scss (https://www.grafikart.fr/formations/sass-compass/differences-sass-scss)
 #### Cloner un nouveau template
 git clone https://github.com/Mziserman/templateBootstrap.git
+
 rm -r templateBootstrap/.git (pour utiliser un autre repository)
+
 mv templateBootstrap templates/${clientName}/${pageName} (par exemple)
 
 #### Travailler sur le template 

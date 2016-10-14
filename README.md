@@ -20,4 +20,5 @@ mv templateBootstrap templates/${clientName}/${pageName} (par exemple)
 Création du template dans markup.ftl
 
 Pour compiler, lancer gulp dans la console.
-Le resultat est dans un fichier nommé result.ftl
+Le resultat est dans un fichier nommé result.ftl.
+Copier/coller le resultat dans le control center.

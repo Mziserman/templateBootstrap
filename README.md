@@ -1,13 +1,13 @@
 # templateBootstrap
 
-Installation : 
-
+## Installation : 
 npm install --save-dev
 
-npm install node-sass --save-dev
+## Lancement : 
+gulp
+dans la console dans le dossier
 
-Workflow : 
-
+## Workflow : 
 Modification des styles en scss dans styles.scss (https://www.grafikart.fr/formations/sass-compass/differences-sass-scss)
 Création du template dans markup.ftl
 

@@ -1,8 +1,10 @@
 # templateBootstrap
 
 ## Lancement : 
+```bash
 gulp
-dans la console dans le dossier
+```
+dans le dossier
 
 ## Workflow : 
 Modification des styles en scss dans styles.scss (https://www.grafikart.fr/formations/sass-compass/differences-sass-scss)
@@ -12,7 +14,9 @@ git clone https://github.com/Mziserman/templateBootstrap.git
 rm -r templateBootstrap/.git #pour utiliser un autre repository
 mv templateBootstrap templates/${clientName}/${pageName} #par exemple
 cd templates/${clientName}/${pageName}/
-npm install --save-dev```
+git init
+npm install --save-dev
+```
 
 #### Travailler sur le template 
 Création du template dans markup.ftl
